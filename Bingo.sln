@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingoCoreTest", "BingoCoreT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bingo4iPhone", "Bingo4iPhone\Bingo4iPhone.csproj", "{C1FA1E53-DD9A-4213-AB67-428FC5A27DC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bingo4iPhoneTest", "Bingo4iPhoneTest\Bingo4iPhoneTest.csproj", "{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{718311D9-60E0-42A4-B789-C0394F0522A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,22 +37,22 @@ Global
 		{11CC424E-9DD1-45AC-9DAB-7526CDF9A243}.Release|iPhone.Build.0 = Release|Any CPU
 		{11CC424E-9DD1-45AC-9DAB-7526CDF9A243}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{11CC424E-9DD1-45AC-9DAB-7526CDF9A243}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.AppStore|iPhone.Build.0 = AppStore|iPhone
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Debug|iPhone.ActiveCfg = Debug|iPhone
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Debug|iPhone.Build.0 = Debug|iPhone
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Release|iPhone.ActiveCfg = Release|iPhone
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Release|iPhone.Build.0 = Release|iPhone
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
-		{7A3D1FCA-6F2E-460D-93E3-2A7A4CA63B33}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Debug|iPhone.Build.0 = Debug|iPhone
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Release|iPhone.Build.0 = Release|iPhone
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{718311D9-60E0-42A4-B789-C0394F0522A3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 		{B2C762BC-EE51-462D-91A2-B15997BEE857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B2C762BC-EE51-462D-91A2-B15997BEE857}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2C762BC-EE51-462D-91A2-B15997BEE857}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -75,6 +75,6 @@ Global
 		{C1FA1E53-DD9A-4213-AB67-428FC5A27DC9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Bingo4iPhoneTest\Bingo4iPhoneTest.csproj
+		StartupItem = Test\Test.csproj
 	EndGlobalSection
 EndGlobal
