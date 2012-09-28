@@ -1,0 +1,4 @@
+/Users/twer/Documents/mono_space/Bingo/BingoCore/bin/Debug/BingoCore.dll.mdb
+/Users/twer/Documents/mono_space/Bingo/BingoCore/bin/Debug/BingoCore.dll
+/Users/twer/Documents/mono_space/Bingo/BingoCore/obj/Debug/BingoCore.dll
+/Users/twer/Documents/mono_space/Bingo/BingoCore/obj/Debug/BingoCore.dll.mdb
