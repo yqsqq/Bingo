@@ -2,4 +2,5 @@
 nunit-console BingoCoreTest/bin/Debug/BingoCoreTest.dll
 java -jar mtouch_adapter.jar
 cd Bingo4iPhone
+export DYLD_INSERT_LIBRARIES=;
 cucumber
