@@ -1,6 +1,0 @@
-2012-10-11 12:44:35.944 Bingo4iPhone[3494:c07] Creating the server: <LPHTTPServer: 0xc877100>
-2012-10-11 12:44:35.947 Bingo4iPhone[3494:c07] simroot: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
-2012-10-11 12:44:35.949 Bingo4iPhone[3494:c07] Started LPHTTP server on port 37265
-2012-10-11 12:44:36.187 Bingo4iPhone[3494:2407] Creating the server: <LPHTTPServer: 0xb398dd0>
-2012-10-11 12:44:36.189 Bingo4iPhone[3494:2407] simroot: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
-2012-10-11 12:44:36.190 Bingo4iPhone[3494:2407] Error starting LPHTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0xc870c40 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
