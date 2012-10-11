@@ -34,9 +34,9 @@
 	<true/>
 	<key>MinimumOSVersion</key>
 	<string>6.0</string>
-	<key>UIRequiredDeviceCapabilities</key>
+	<key>UIDeviceFamily</key>
 	<array>
-		<string>armv6</string>
+		<integer>1</integer>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>

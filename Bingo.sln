@@ -75,6 +75,6 @@ Global
 		{C1FA1E53-DD9A-4213-AB67-428FC5A27DC9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Test\Test.csproj
+		StartupItem = Bingo4iPhone\Bingo4iPhone.csproj
 	EndGlobalSection
 EndGlobal

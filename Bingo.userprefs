@@ -1,17 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Test.cs">
-    <Files>
-      <File FileName="Test/Main.cs" Line="1" Column="1" />
-      <File FileName="Test/Test.cs" Line="6" Column="2" />
-    </Files>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="Bingo4iPhone" expanded="True" />
-          <Node name="Test" expanded="True">
-            <Node name="Test.cs" selected="True" />
-          </Node>
+          <Node name="Bingo4iPhone" expanded="True" selected="True" />
+          <Node name="BingoCoreTest" expanded="True" />
         </State>
       </Pad>
       <Pad Id="ClassPad">

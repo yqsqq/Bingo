@@ -1,0 +1,2 @@
+/Users/twer/Documents/mono_space/Bingo/BingoCore/bin/Release/BingoCore.dll
+/Users/twer/Documents/mono_space/Bingo/BingoCore/obj/Release/BingoCore.dll
